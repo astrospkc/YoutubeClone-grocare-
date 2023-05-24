@@ -24,9 +24,6 @@ const SideBar = () => {
           <li className="my-4 mx-3 hover:cursor-pointer hover:text-gray-600 active:">
             Learning
           </li>
-          <li className="my-4 mx-3 hover:cursor-pointer hover:text-gray-600 active:">
-            Movies and shows
-          </li>
         </ul>
       </div>
     </>
